@@ -13,3 +13,6 @@ function helloWorld2(){
 function printLog(){
     console.log('Hello world!');
 }
+
+let x = 0;
+console.log(x == 0);
