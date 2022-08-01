@@ -9,3 +9,7 @@ function helloWorld2(){
 // function helloWorld3(){
 //     console.log('Hello world 3');
 // }
+
+function printLog(){
+    console.log('Hello world!');
+}
